@@ -1,0 +1,12 @@
+datasets==3.5.1
+torch
+numpy
+scikit-learn==1.6.1
+matplotlib
+transformers==4.51.3
+tqdm==4.67.1
+scipy
+seaborn
+conllu
+rouge_score
+evaluate
