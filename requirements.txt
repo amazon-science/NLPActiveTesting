@@ -3,7 +3,7 @@ torch
 numpy
 scikit-learn==1.6.1
 matplotlib
-transformers==4.51.3
+transformers==5.10.1
 tqdm==4.67.1
 scipy
 seaborn
